@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.example</groupId>
-    <artifactId>miphi-microservices</artifactId>
+    <artifactId>Microserve</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>hotel-service</artifactId>
